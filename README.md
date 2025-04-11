@@ -14,8 +14,8 @@
 2. git clone https://github.com/твой_логин/CleanupScript.git cd CleanupScript
 3. Установите зависимости: pip install -r requirements.txt
 4. Создай `.env` на основе `.env.example`:
-TELEGRAM_BOT_TOKEN=your_bot_token 
-TELEGRAM_CHAT_ID=your_chat_id
+- TELEGRAM_BOT_TOKEN=your_bot_token 
+- TELEGRAM_CHAT_ID=your_chat_id
 
 ## Использование
 - Тестовый режим:
